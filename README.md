@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**JotinhaBR/JotinhaBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Apaixonado por tecnologia e viagem, Empreendedor, Fundador da PlanetsWEB, Desenvolvedor Full-Stack, Designer, Meu hobby é fotógrafar e fazer vídeos.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Techs: <strong>PHP, JavaScript, Python, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, Umbler, NodeJs, React, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Githu Desktop, Franz, Teams, Google Drive, Spotify.</strong>
+</p>
+
+<p align="left">
+  💌 Todos meus meios de contato e redes: ⤵️ <br/>
+  https://icartao.me/@rubens-flinco
+</p>
