@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Apaixonado por tecnologia e viagem, Empreendedor, Fundador da PlanetsWEB, Desenvolvedor Full-Stack, Designer, Meu hobby é fotógrafar e fazer vídeos.
+  Apaixonado por tecnologia e viajem, empreendedor, fundador da PlanetsWEB, Desenvolvedor Full-Stack, Designer, Meu hobby é fotografar e fazer vídeos.
 </p>
 
 <p align="left">
