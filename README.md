@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>PHP, JavaScript, Python, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, Umbler, NodeJs, React, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
+  🦄 Techs: <strong>PHP, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, Umbler, NodeJs, React, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
 </p>
 
 <p align="left">
