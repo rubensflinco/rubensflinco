@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>PHP, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, Umbler, NodeJs, React, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
+  🦄 Techs: <strong>PHP, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, Umbler, NodeJs, React, NextJS, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Githu Desktop, Franz, Teams, Google Drive, Spotify.</strong>
+  💼 Ferramentas: <strong>VSCode, Cpanel, Vercel, Heroku, Atlas, Github Desktop, Franz, Teams, Google Drive, Spotify.</strong>
 </p>
 
 <p align="left">
