@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Apaixonado por tecnologia e viajem, empreendedor, fundador da PlanetsWEB, Desenvolvedor Full-Stack, Designer, Meu hobby é fotografar e fazer vídeos.
+  Apaixonado por tecnologia e viajem, Desenvolvedor Full-Stack, Designer, Meu hobby é fotografar e fazer vídeos.
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>PHP, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, Umbler, NodeJs, React, NextJS, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
+  🦄 Techs: <strong>PHP, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, NodeJs, React, NextJS, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Cpanel, Vercel, Heroku, Atlas, Github Desktop, Franz, Teams, Google Drive, Spotify.</strong>
+  💼 Ferramentas: <strong>VSCode, Cpanel, Vercel, Heroku, Umbler, Atlas, Github Desktop, Franz, Discord, Google Drive, Spotify.</strong>
 </p>
 
 <p align="left">
