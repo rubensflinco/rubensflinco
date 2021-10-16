@@ -4,7 +4,7 @@
   <br/><br/><br/>
 </div>
 
-<img src="https://i.imgur.com/BMtmr1P.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Ovelha hacker">
+<img src="https://i.imgur.com/kPeMwgR.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Ovelha hacker">
 
 <p align="left"> 
   Apaixonado por tecnologia e viajem, Desenvolvedor Full-Stack, Designer, Meu hobby é fotografar e fazer vídeos.
