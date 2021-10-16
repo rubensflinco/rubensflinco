@@ -22,4 +22,3 @@
   💌 Todos meus meios de contato e redes: ⤵️ <br/>
   https://icartao.me/@rubens-flinco
 </p>
-<iframe src="https://embed.lottiefiles.com/animation/75146"></iframe>
