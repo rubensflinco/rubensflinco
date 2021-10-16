@@ -22,3 +22,5 @@
   💌 Todos meus meios de contato e redes: ⤵️ <br/>
   https://icartao.me/@rubens-flinco
 </p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_xvmprung.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
