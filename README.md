@@ -4,7 +4,7 @@
   <br/><br/><br/>
 </div>
 
-<img src="https://i.imgur.com/Lhf5Fy3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Ovelha hacker">
+<img src="https://i.imgur.com/BMtmr1P.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Ovelha hacker">
 
 <p align="left"> 
   Apaixonado por tecnologia e viajem, Desenvolvedor Full-Stack, Designer, Meu hobby é fotografar e fazer vídeos.
@@ -22,5 +22,4 @@
   💌 Todos meus meios de contato e redes: ⤵️ <br/>
   https://icartao.me/@rubens-flinco
 </p>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_xvmprung.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<iframe src="https://embed.lottiefiles.com/animation/75146"></iframe>
