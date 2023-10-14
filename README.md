@@ -10,15 +10,15 @@
 <img src="https://i.imgur.com/DYtMnkZ.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gatinho hacker">
 
 <p align="left"> 
-  Apaixonado por tecnologia e viajem, Desenvolvedor Full-Stack, Designer, Meu hobby é fotografar e fazer vídeos.
+  Apaixonado por tecnologia e viajem, Desenvolvedor Full-Stack com 10+ de conhecimento, Meu hobby é fotografar e fazer vídeos.
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>PHP, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, NodeJs, React, NextJS, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
+  🦄 Techs: <strong>PHP, NodeJs, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, React, NextJS, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Cpanel, Vercel, Heroku, Umbler, Atlas, Github Desktop, Franz, Discord, Google Drive, Spotify.</strong>
+  💼 Ferramentas: <strong>VSCode, Cpanel, Vercel, Heroku, AWS, Azure, Umbler, Atlas, Github Desktop, Discord, Google Drive, Spotify.</strong>
 </p>
 
 <p align="left">
