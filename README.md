@@ -10,18 +10,15 @@
 <img src="https://i.imgur.com/DYtMnkZ.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gatinho hacker">
 
 <p align="left"> 
-  Apaixonado por tecnologia e viajem, Desenvolvedor Full-Stack com 10+ de conhecimento, Meu hobby é fotografar e fazer vídeos.
+  
+> 👨‍💻 Programador Web Fullstack, apaixonado por tecnologia e inovação. Adoro compartilhar conhecimento e colaboro com instituições de ensino na gravação de cursos sobre Arquitetura de Software, DevOps e Programação WEB. 
+> 
+> 💡 Minha trajetória inclui contribuições significativas para projetos de destaque, como o sistema bancário do Bradesco BAC Florida Bank e o Portal de Seguros do Grupo oBoticário, onde atuei como Desenvolvedor Web Sênior na BRQ. 
+> 
+> 🎓 Sou graduado em Gestão da Tecnologia da Informação pela Faculdade São Francisco de Assis e possuo certificações em diversas tecnologias, incluindo Mercado Pago - Checkout Pro e Explore Implement API Management pela Microsoft. 
+> 
+> 🌟 Fui reconhecido por prêmios como o 1º lugar na América Latina no Hackathon Facebook Community Challenge em 2019 e por contribuições em projetos de código aberto selecionados para o Archive Program do GitHub. 
+> 
+> [📄 Clique aqui e conheça meu Curriculum](https://github.com/rubensflinco/Curriculo/tree/master)
 </p>
 
-<p align="left">
-  🦄 Techs: <strong>PHP, NodeJs, JavaScript, Python, Java, MYSQL, MongoDB, MariaDB, PHPMyAdmin, Cpanel, WHM, React, NextJS, Angular, Bootstrap, Material UI, Jquery, React 360.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Cpanel, Vercel, Heroku, AWS, Azure, Umbler, Atlas, Github Desktop, Discord, Google Drive, Spotify.</strong>
-</p>
-
-<p align="left">
-  💌 Todos meus meios de contato e redes: ⤵️ <br/>
-  https://icartao.me/@rubens-flinco
-</p>
