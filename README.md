@@ -19,6 +19,6 @@
 > 
 > 🌟 Fui reconhecido por prêmios como o 1º lugar na América Latina no Hackathon Facebook Community Challenge em 2019 e por contribuições em projetos de código aberto selecionados para o Archive Program do GitHub. 
 > 
-> [📄 Clique aqui e conheça meu Curriculum](https://github.com/rubensflinco/Curriculo/tree/master)
+> [📄 Clique aqui e conheça meu Currículo](https://github.com/rubensflinco/Curriculo/tree/master)
 </p>
 
