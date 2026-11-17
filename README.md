@@ -20,7 +20,7 @@ Downloads atualizados automaticamente pelas badges oficiais do NPM.
 
 [![ultrastar-cli-plus](https://img.shields.io/npm/dm/ultrastar-cli-plus?style=flat-square&logo=npm&label=ultrastar-cli-plus&color=CB3837)](https://www.npmjs.com/package/ultrastar-cli-plus)
 [![n8n-nodes-turndown-html-to-markdown](https://img.shields.io/npm/dm/n8n-nodes-turndown-html-to-markdown?style=flat-square&logo=npm&label=turndown+n8n&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-turndown-html-to-markdown)
-[![n8n-nodes-codechat-wapi](https://img.shields.io/npm/dm/n8n-nodes-codechat-wapi?style=flat-square&logo=npm&label=codechat+wapi&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-codechat-wapi)
+[![n8n-nodes-codechat-wapi](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.npmjs.org%2Fdownloads%2Fpoint%2Flast-month%2Fn8n-nodes-codechat-wapi&query=%24.downloads&label=codechat+wapi&suffix=%2Fmonth&style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-codechat-wapi)
 
 [![json-to-mock-api](https://img.shields.io/npm/dm/json-to-mock-api?style=flat-square&logo=npm&label=json-to-mock-api&color=CB3837)](https://www.npmjs.com/package/json-to-mock-api)
 [![imagemin-jpeg-autorotate](https://img.shields.io/npm/dm/imagemin-jpeg-autorotate?style=flat-square&logo=npm&label=jpeg-autorotate&color=CB3837)](https://www.npmjs.com/package/imagemin-jpeg-autorotate)
