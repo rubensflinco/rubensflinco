@@ -14,22 +14,6 @@ Sou **Rubens Flinco**, desenvolvedor full-stack apaixonado por tecnologia, educa
 
 **Full-stack · Node.js · JavaScript · React · Python · AWS · Docker**
 
-## 🚀 Projetos em destaque
-
-Os cartões abaixo são gerados diretamente do GitHub e mostram estrelas, forks e linguagem atualizados automaticamente.
-
-<div align="center">
-
-[![nubank-ofx](https://github-readme-stats.vercel.app/api/pin/?username=rubensflinco&repo=nubank-ofx&theme=transparent&hide_border=true)](https://github.com/rubensflinco/nubank-ofx)
-[![n8n-nodes-turndown-html-to-markdown](https://github-readme-stats.vercel.app/api/pin/?username=rubensflinco&repo=n8n-nodes-turndown-html-to-markdown&theme=transparent&hide_border=true)](https://github.com/rubensflinco/n8n-nodes-turndown-html-to-markdown)
-
-[![Escooteros](https://github-readme-stats.vercel.app/api/pin/?username=rubensflinco&repo=Hackathon-CommunityChallenge-2019-Escooteros&theme=transparent&hide_border=true)](https://github.com/rubensflinco/Hackathon-CommunityChallenge-2019-Escooteros)
-[![json-to-mock-api](https://github-readme-stats.vercel.app/api/pin/?username=rubensflinco&repo=json-to-mock-api&theme=transparent&hide_border=true)](https://github.com/rubensflinco/json-to-mock-api)
-
-</div>
-
-> [Ver todos os repositórios ordenados por estrelas](https://github.com/rubensflinco?tab=repositories&sort=stargazers)
-
 ## 📦 Pacotes NPM
 
 Downloads atualizados automaticamente pelas badges oficiais do NPM.
@@ -41,17 +25,6 @@ Downloads atualizados automaticamente pelas badges oficiais do NPM.
 [![json-to-mock-api](https://img.shields.io/npm/dw/json-to-mock-api?style=flat-square&logo=npm&label=json-to-mock-api&color=CB3837)](https://www.npmjs.com/package/json-to-mock-api)
 [![imagemin-jpeg-autorotate](https://img.shields.io/npm/dw/imagemin-jpeg-autorotate?style=flat-square&logo=npm&label=jpeg-autorotate&color=CB3837)](https://www.npmjs.com/package/imagemin-jpeg-autorotate)
 [![nextjs-swagger-auto](https://img.shields.io/npm/dw/nextjs-swagger-auto?style=flat-square&logo=npm&label=nextjs-swagger&color=CB3837)](https://www.npmjs.com/package/nextjs-swagger-auto)
-
-## 📊 GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rubensflinco&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rubensflinco&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Estatísticas GitHub">
-</picture>
-
-</div>
 
 ## 🤝 Comunidade
 
