@@ -18,13 +18,13 @@ Sou **Rubens Flinco**, desenvolvedor full-stack apaixonado por tecnologia, educa
 
 Downloads atualizados automaticamente pelas badges oficiais do NPM.
 
-[![ultrastar-cli-plus](https://img.shields.io/npm/dw/ultrastar-cli-plus?style=flat-square&logo=npm&label=ultrastar-cli-plus&color=CB3837)](https://www.npmjs.com/package/ultrastar-cli-plus)
-[![n8n-nodes-turndown-html-to-markdown](https://img.shields.io/npm/dw/n8n-nodes-turndown-html-to-markdown?style=flat-square&logo=npm&label=turndown+n8n&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-turndown-html-to-markdown)
-[![n8n-nodes-codechat-wapi](https://img.shields.io/npm/dw/n8n-nodes-codechat-wapi?style=flat-square&logo=npm&label=codechat+wapi&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-codechat-wapi)
+[![ultrastar-cli-plus](https://img.shields.io/npm/dm/ultrastar-cli-plus?style=flat-square&logo=npm&label=ultrastar-cli-plus&color=CB3837)](https://www.npmjs.com/package/ultrastar-cli-plus)
+[![n8n-nodes-turndown-html-to-markdown](https://img.shields.io/npm/dm/n8n-nodes-turndown-html-to-markdown?style=flat-square&logo=npm&label=turndown+n8n&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-turndown-html-to-markdown)
+[![n8n-nodes-codechat-wapi](https://img.shields.io/npm/dm/n8n-nodes-codechat-wapi?style=flat-square&logo=npm&label=codechat+wapi&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-codechat-wapi)
 
-[![json-to-mock-api](https://img.shields.io/npm/dw/json-to-mock-api?style=flat-square&logo=npm&label=json-to-mock-api&color=CB3837)](https://www.npmjs.com/package/json-to-mock-api)
-[![imagemin-jpeg-autorotate](https://img.shields.io/npm/dw/imagemin-jpeg-autorotate?style=flat-square&logo=npm&label=jpeg-autorotate&color=CB3837)](https://www.npmjs.com/package/imagemin-jpeg-autorotate)
-[![nextjs-swagger-auto](https://img.shields.io/npm/dw/nextjs-swagger-auto?style=flat-square&logo=npm&label=nextjs-swagger&color=CB3837)](https://www.npmjs.com/package/nextjs-swagger-auto)
+[![json-to-mock-api](https://img.shields.io/npm/dm/json-to-mock-api?style=flat-square&logo=npm&label=json-to-mock-api&color=CB3837)](https://www.npmjs.com/package/json-to-mock-api)
+[![imagemin-jpeg-autorotate](https://img.shields.io/npm/dm/imagemin-jpeg-autorotate?style=flat-square&logo=npm&label=jpeg-autorotate&color=CB3837)](https://www.npmjs.com/package/imagemin-jpeg-autorotate)
+[![nextjs-swagger-auto](https://img.shields.io/npm/dm/nextjs-swagger-auto?style=flat-square&logo=npm&label=nextjs-swagger&color=CB3837)](https://www.npmjs.com/package/nextjs-swagger-auto)
 
 ## 🤝 Comunidade
 
